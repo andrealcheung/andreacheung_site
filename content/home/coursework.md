@@ -16,16 +16,16 @@ weight = 25
 
 +++
 
- - Water Policy
- - Water Law
- - Water Transactions
- - Water Finance
- - Groundwater Management
- - Watershed Analysis
- - Watershed Quality Management
- - Natural Resources Economics and Policy
- - Policy Analysis
+ - Business Strategy and Leadership
+ - Entrepreneurship
  - Advanced Data Analysis
- - Cost Benefit Analysis (CBA)
+ - Marketing
+ - Carbon Accounting
+ - Life Cycle Assessment (LCA)
+ - Advanced Data Analysis
+ - Cost Benefit Analysis 
  - Presentation Skills
+ - Non-Profit Ventures
+ 
+
 

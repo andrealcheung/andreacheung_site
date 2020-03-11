@@ -7,20 +7,23 @@ education:
   - course: MS Environmental Science and Management
     institution: Bren School, UC Santa Barbara
     year: 2020
-  - course: BS Environmental Engineering
-    institution: Northwestern University
-    year: 2014
-email: "bvgibbons@gmail.com"
+  - course: BS Animal Biology
+    institution: UC Davis
+    year: 2016
+email: "andreacheung@ucsb.edu"
 interests:
-- Water Markets and Transactions
-- Groundwater Management
-- Policy Analysis
-- Ice Cream
-name: Bridget Gibbons
+- Corporate Social Responsibility
+- Ag Tech and Material Innovation
+- Entrepreneurship
+- Asian American Studies
+- Fashion & Style
+- Landscape Photography & Portrait Sketches
+- Various Snack Foods
+name: Andrea Cheung
 organizations:
 - name: Bren School of Environmental Science and Management, UCSB
   url: "http://bren.ucsb.edu/"
-role: Sustainable Water Markets Fellow
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,6 +38,8 @@ user_groups:
 ---
 
 
-I first became interested in western water management during a summer spent working as a hydrology intern for Ashley National Forest in Vernal, Utah. Having previously lived only on the shores of the Great Lakes, assessing streamflows and riparian health in semi-arid Vernal opened my eyes to the unique challenges of managing water supplies in a scarce environment. Following this experience, I pursued independent research analyzing water rights systems across the West. After graduating from Northwestern University with a B.S. in Environmental Engineering, I spent 4 years working as a project manager for ECS Midwest in Chicago, Illinois, primarily focused on site characterization and remediation. 
+I am a science-driven storyteller, working to change the way people and businesses see the environment, and each other.
 
-I am currently a second-year master’s student and Sustainable Water Markets Fellow at the Bren School at UC Santa Barbara, specializing in both Water Resources Management and Economics and Politics of the Environment. I am passionate about applying my skills and training to improve water management in order to better meet the needs of communities and the environment.
+My passions will always be rooted in science. I first became interested in academic research as an undergraduate working in a plant pathology lab at UC Davis where I investigated the role of viruses in plant-insect interactions.  It was here that I became curious in the intricacies and importance of ecological relationships. This curiosity led me to work in bat conservation, and then to Amazon in Ecuador as a volunteer at a wildlife rescue center, where gained a greater understanding of the diverse ways different communities interact and depend on the environment. Following graduation from UC Davis with a BS in Animal Biology, I became a research associate at UC San Diego identifying drug targets for malaria before I began a master’s program in Environmental Science and Management at the Bren School at UC Santa Barbara. 
+
+I am currently finishing up the second-year of master's program and specializing in corporate environmental management. I am passionate about applying my research experience and corporate environmental training to help entrepreneurs, innovators, and companies create a greener and more inclusive economy. 

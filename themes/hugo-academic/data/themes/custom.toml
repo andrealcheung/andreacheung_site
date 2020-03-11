@@ -2,16 +2,16 @@
 name = "custom"
 
 # Is theme light or dark?
-light = true
+dark = true
 
 # Primary
-primary = "#327575"
+primary = "#659dbd"
 
 # Menu
-menu_primary = "#dce3e3" # 500
-menu_text = "#2b4980"
-menu_text_active = "#327575" # A100
-menu_title = "#2b4980"
+menu_primary = "#BC986A" 
+menu_text = "#F9F8E8"
+menu_text_active = "#8D8741" 
+menu_title = "#F2F1E7"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"

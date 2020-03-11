@@ -21,33 +21,34 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "map"
-  icon_pack = "fas"
-  name = "ArcGIS"
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office"
   description = ""  
   
 [[feature]]
-  icon = "file-contract"
+  icon = "book-open"
   icon_pack = "fas"
-  name = "Policy Analysis"
+  name = "Literature Review"
   description = ""
   
 [[feature]]
-  icon = "users"
+  icon = "tasks"
   icon_pack = "fas"
-  name = "Communication"
+  name = "Project Management"
+  description = ""
+  
+[[feature]]
+  icon = "mailchimp"
+  icon_pack = "fab"
+  name = "Digital Marketing"
   description = ""
 
-[[feature]]
-  icon = "water"
-  icon_pack = "fas"
-  name = "Field Work"
-  description = ""
 
 [[feature]]
-  icon = "chalkboard-teacher"
-  icon_pack = "fas"
-  name = "Presentations"
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Adobe (Photoshop & Illustrator)"
   description = ""
 
 +++
