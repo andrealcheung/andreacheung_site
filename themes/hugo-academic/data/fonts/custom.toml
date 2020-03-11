@@ -2,7 +2,7 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "Barlow|PT+Serif"
+google_fonts = "Lora:400,700|PT+Serif"
 
 # Font families
 heading_font = "Barlow"
